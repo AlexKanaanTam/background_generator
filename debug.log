@@ -1,0 +1,4 @@
+[1017/141628.304:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
+[1018/233423.970:ERROR:process_reader_win.cc(127)] NtOpenThread: {Acceso denegado} Un proceso ha solicitado acceso a un objeto, pero no se le han concedido esos derechos de acceso. (0xc0000022)
+[1018/233423.985:ERROR:exception_snapshot_win.cc(100)] thread ID 25464 not found in process
+[1018/233427.090:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Alex\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\62b292f9-8d1b-43b5-a22b-5aa7109d7603: El sistema no puede encontrar la ruta especificada. (0x3)
